@@ -1,4 +1,6 @@
-# Pixel.nvim
+# SigmaOS pixel.nvim
+
+> Forked from omacom/pixel.nvim (MIT). See `SIGMAOS_FORK.md`.
 
 A dynamic Neovim colorscheme that adapts to your terminal's color palette, inspired by the bat command-line tool's approach to color theming.
 
