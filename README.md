@@ -239,3 +239,8 @@ Follow [@iamdothash](https://x.com/iamdothash) on X for updates and more project
 
 - [bat](https://github.com/sharkdp/bat) - Command-line tool that inspired the ANSI color approach
 - Terminal color schemes that prioritize consistency across applications
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-pixel.nvim) - Full Wiki documentation for all SigmaOS components
